@@ -12,5 +12,26 @@
     "url": "https://github.com/skylize/str-replace-loader/issues"
   },
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {},
+  "keywords": [
+    "webpack",
+    "webpack 2",
+    "loader",
+    "webpack loader",
+    "string",
+    "replace",
+    "string replace",
+    "replace string",
+    "string replace loader",
+    "regex",
+    "regex loader",
+    "regex replace",
+    "regexp",
+    "regexp loader",
+    "regexp replace",
+    "regular",
+    "expression",
+    "regular expression",
+    "webpack regex"
+  ]
 }
