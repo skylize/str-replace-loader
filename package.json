@@ -1,6 +1,6 @@
 {
   "name": "str-replace-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader that applies string.replace to a file",
   "license": "MIT",
   "repository": {
