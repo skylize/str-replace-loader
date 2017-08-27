@@ -4,20 +4,20 @@
 A simple, unopinionated, webpack-compatible loader to pass a file through `String.prototype.replace` for string or regular expression replacement.
 
 ---
-#####Options:
+##### Options
 
 `match` : {String} or {RegExp}, the first parameter to `String.replace()`.
 
 `replace` : {String} or {Function}, the second parameter to `String.replace()`
 
-#####Note
+##### Note
 This loader intentionally does no internal processing of options. Just pass in the same options you would pass as parameters into `String.replace`.
 
 For example, if using regex and need a flag, append it to the expression yourself, such as `/tarzan/i` to match 'tarzan' or 'Tarzan'.
 
 See [MDN String.prototype.replace()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace) for more info on using String.replace().
 
-#####Examples:
+##### Examples:
 ```javascript
 
 module.exports = {
