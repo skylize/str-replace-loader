@@ -1,0 +1,12 @@
+{
+  "name": "str-replace-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader that applies regex to file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:skylize/str-replace-loader.git"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
